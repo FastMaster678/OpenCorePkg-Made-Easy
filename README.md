@@ -43,21 +43,8 @@ details.
 
 #### Credits
 
-- The HermitCrabs Lab
-- All projects providing third-party code (refer to file headers)
-- [AppleLife](https://applelife.ru) team and user-contributed resources
-- Chameleon and Clover teams for hints and legacy
-- [al3xtjames](https://github.com/al3xtjames)
-- [Andrey1970AppleLife](https://github.com/Andrey1970AppleLife)
-- [mhaeuser (ex Download-Fritz)](https://github.com/mhaeuser)
-- [Goldfish64](https://github.com/Goldfish64)
-- [MikeBeaton](https://github.com/MikeBeaton)
-- [nms42](https://github.com/nms42)
-- [PMheart](https://github.com/PMheart)
-- [savvamitrofanov](https://github.com/savvamitrofanov)
-- [usr-sse2](https://github.com/usr-sse2)
-- [vit9696](https://github.com/vit9696)
+- Everyone who made the original OpenCorePkg. See the original credits [here](https://github.com/acidanthera/OpenCorePkg).
 
 #### Discussion
 
-Please refer to the following [list of OpenCore discussion forums](/Docs/FORUMS.md).
+This fork doesn't have it's own discussion forums. (Yet?) The forum links in the code are for the original OpenCore.
