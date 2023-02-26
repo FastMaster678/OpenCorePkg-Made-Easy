@@ -1,11 +1,14 @@
-<img src="/Docs/Logos/OpenCore_with_text_Small.png" width="200" height="48"/>
+<img src="/Docs/Logos/OpenCore_Made_Easy.png" width="400" height="155"/>
 
-[![Build Status](https://github.com/acidanthera/OpenCorePkg/workflows/CI/badge.svg?branch=master)](https://github.com/acidanthera/OpenCorePkg/actions) [![Scan Status](https://scan.coverity.com/projects/18169/badge.svg?flat=1)](https://scan.coverity.com/projects/18169)
+Welcome to OpenCore Made Easy! (DEFINITELY NOT OFFICIAL. To stay up to date with the latest builds of the real thing, see the [original repo](https://github.com/acidanthera/OpenCorePkg)).
 -----
 
 OpenCore bootloader, with generators to get OpenCore up and running fast without troubleshooting pain.
 
 ❗I haven't done anything yet! Come back when this fork is ready!❗
+
+
+🕒In the meantime, you can check my Hello-World repository, which is under active development.
 
 ## Libraries
 
