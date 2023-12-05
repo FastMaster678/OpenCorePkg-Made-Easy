@@ -1,15 +1,14 @@
 <img src="/Docs/Logos/OpenCore_Made_Easy.png" width="400" height="155"/>
 
-Welcome to OpenCore Made Easy! (DEFINITELY NOT OFFICIAL. To stay up to date with the latest builds of the real thing, see the [original repo](https://github.com/acidanthera/OpenCorePkg)).
+Welcome to OpenCore Made Easy! But first, two things to know: 
+
+1. DEFINITELY NOT OFFICIAL. To stay up to date with the latest builds of the real thing, see the [original repo](https://github.com/acidanthera/OpenCorePkg)).
+2. This is only a concept, not a working program. Unfortunately, I don't know coding nearly as good as Acidanthera does, so I wouldn't know how to make this concept come to life.
 -----
 
-OpenCore bootloader, with generators to get OpenCore up and running fast without troubleshooting pain.
+OpenCore Legacy Patcher-like GUI concept program, that would automate the process of configuring your config.plist file to your CPU and discrete GPU, therefore decreasing headaches.
 
-❗I haven't done anything yet! Come back when this fork is ready!❗
-
-
-🕒In the meantime, you can check my Hello-World repository, which is under active development.
-
+The following text below comes from the original repository.
 ## Libraries
 
 This repository also contains additional UEFI support common libraries shared by other projects in [Acidanthera](https://github.com/acidanthera). The primary purpose of the library set is to provide supplemental functionality for Apple-specific UEFI drivers. Key features:
